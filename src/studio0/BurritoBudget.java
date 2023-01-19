@@ -6,7 +6,7 @@ public class BurritoBudget {
 		int burritosEatenWeek1 = 7;
 		int burritosEatenWeek2 = 4;
 		int burritosEatenWeek3 = 19; //don't judge me
-		int burritosEatenWeek4 = 1;
+		int burritosEatenWeek4 = 1; //test
 		
 		int totalBurritos = burritosEatenWeek1 + burritosEatenWeek2 + burritosEatenWeek3 + burritosEatenWeek4;
 		double averageWeeklyBurritos = totalBurritos / 4.0;
