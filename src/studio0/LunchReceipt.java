@@ -15,7 +15,6 @@ public class LunchReceipt {
 		double total = subtotal + taxAmount;
 		
 		System.out.println("Your total was: $" + total);
-	}
 	
 	
 }
